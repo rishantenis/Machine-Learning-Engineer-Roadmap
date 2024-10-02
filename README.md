@@ -22,37 +22,5 @@
 <img src="https://img.shields.io/badge/Robotics-brown"> <img src="https://img.shields.io/badge/Machine Learning-green"> <img src="https://img.shields.io/badge/Deep Learning-red"> <img src="https://img.shields.io/badge/Computer Vision-magenta"> <img src="https://img.shields.io/badge/Natural Language Processing-yellow"> <img src="https://img.shields.io/badge/Reinforcement Learning-blue"> 
 </p>
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 # Machine-Learning-Engineer-Roadmap
 A Machine Learning Engineer roadmap typically involves mastering programming languages (Python, R), mathematics (linear algebra, calculus), statistics, and deep learning frameworks (TensorFlow, PyTorch) while gaining practical experience in data preprocessing, model development, and deployment.
